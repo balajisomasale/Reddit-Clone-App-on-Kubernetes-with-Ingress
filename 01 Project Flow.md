@@ -16,7 +16,7 @@ sudo usermod -aG docker $USER && newgrp docker
 
 ```
 ### Cloning the git project into the server: 
-
+```
 git clone https://github.com/balajisomasale/Reddit-Clone-App-on-Kubernetes-with-Ingress.git
 ```
 - Once the code is there, check if you have the `Dockerfile` which builds `Docker Image`
@@ -42,7 +42,7 @@ git clone https://github.com/balajisomasale/Reddit-Clone-App-on-Kubernetes-with-
 
 
 
-```
+
 ### To install Docker, Minukube and kubectl : 
 
 ```
