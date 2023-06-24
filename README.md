@@ -7,7 +7,7 @@ DevOps Project from scratch
 This project demonstrates how to deploy a Reddit clone app on Kubernetes with Ingress and expose it to the world using Minikube as the cluster.
 
 ## Prerequisites
-Before you begin, you should have the following tools installed on your local machine: 
+Before you begin, you should have the following tools installed on your local machine along with AWS account : 
 
 - Docker
 - Minikube cluster ( Running )
